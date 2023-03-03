@@ -15,4 +15,5 @@ public class Zadatak47 {
         int starost = 2023 - godiste;
         System.out.println("Korisnik se zove " + ime + " i ima " + starost + " godina.");
     }
+
 }
